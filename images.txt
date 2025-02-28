@@ -1,3 +1,4 @@
 nickwharton/openwebui
 neo4j
 redis/redis-stack
+nginx
